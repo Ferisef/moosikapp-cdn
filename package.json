@@ -1,9 +1,9 @@
 {
   "name": "moosikapp-cdn",
-  "version": "5.6.52",
   "description": "MoosikApp file storage.",
-  "author": "unlakki",
+  "version": "5.6.52",
   "license": "MIT",
+  "author": "xanedesu",
   "main": "dist/server.js",
   "repository": {
     "type": "git",
