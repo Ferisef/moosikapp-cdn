@@ -28,7 +28,7 @@
     "helmet": "^3.21.2",
     "http-errors": "^1.7.3",
     "jsonwebtoken": "^8.5.1",
-    "redis": "^2.8.0",
+    "redis": "^3.1.1",
     "request": "^2.88.0",
     "yadisk-mgr": "https://github.com/unlakki/yadisk-mgr/releases/download/v3.6.16/yadisk-mgr-v3.6.16.tgz"
   },
