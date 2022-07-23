@@ -24,7 +24,7 @@
     "@types/request": "^2.48.5",
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "file-type": "^14.1.2",
+    "file-type": "^16.5.4",
     "helmet": "^3.21.2",
     "http-errors": "^1.7.3",
     "jsonwebtoken": "^8.5.1",
