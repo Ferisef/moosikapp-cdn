@@ -23,7 +23,7 @@
   "dependencies": {
     "@types/request": "^2.48.5",
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "file-type": "^14.1.2",
     "helmet": "^3.21.2",
     "http-errors": "^1.7.3",
