@@ -27,7 +27,7 @@
     "file-type": "^14.1.2",
     "helmet": "^3.21.2",
     "http-errors": "^1.7.3",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "redis": "^2.8.0",
     "request": "^2.88.0",
     "yadisk-mgr": "https://github.com/unlakki/yadisk-mgr/releases/download/v3.6.16/yadisk-mgr-v3.6.16.tgz"
